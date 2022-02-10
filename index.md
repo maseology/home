@@ -18,4 +18,4 @@ knit:   (
 
 ## index page
 
-asdf asdf
+* **[Barometry](/home/interp/baro.html)**
