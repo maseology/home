@@ -1,4 +1,3 @@
-
 ---
 title: "Barometric interpolation"
 author: "M. Marchildon"
@@ -8,7 +7,7 @@ knit: (function(input_file, encoding) {
   out_dir <- '';
   rmarkdown::render(input_file,
   encoding=encoding,
-  output_file=file.path(dirname(input_file), out_dir, 'barometry.html'))})
+  output_file=file.path(dirname(input_file), out_dir, 'baro.html'))})
 ---
 
 ## Summary
